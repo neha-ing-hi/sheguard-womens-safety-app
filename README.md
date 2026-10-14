@@ -32,7 +32,7 @@ It provides manual SOS, voice-triggered alerts, emergency contact management, lo
 https://github.com/neha-ing-hi/sheguard-womens-safety-app
 
 ## Live Demo
-A live demo link is not available yet.
+https://drive.google.com/file/d/1W-VZEhxXSIfp0h49wa8cfb4lnVbuc3z8/view?usp=drive_link
 
 ## Disclaimer
 For educational purposes only. This application is a student project prototype and should not be relied upon as the sole means of emergency assistance.
